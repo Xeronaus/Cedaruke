@@ -70,13 +70,6 @@ jar{
     from(rootDir){
         include "mod.json"
     }
-
-    from("main/assets/"){
-        include "**"
-    }
-    from("main/assets-raw/"){
-        include "**"
-    }
 }
 
 task deploy(type: Jar){
