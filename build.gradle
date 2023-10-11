@@ -71,7 +71,10 @@ jar{
         include "mod.json"
     }
 
-    from("assets/"){
+    from("main/assets/"){
+        include "**"
+    }
+    from("main/assets-raw/"){
         include "**"
     }
 }
