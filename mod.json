@@ -5,7 +5,7 @@
   "version": "v1.0",
   "author": "Xeron590",
   "main": "cetadustry.Cetadustry",
-  "description": "A Mindustry Java mod about conquering the 33 planets of Cetadustry.\n\nCurrently there is only 1 planet.\n\nThis mod aims to be large and may not be supported on low-end devices in the future.",
+  "description": "A Mindustry Java mod about conquering the 33 planets of Cetadustry.\n\nCurrently there is only 1 planet.\n\nThis mod aims to become large and may not be supported on low-end devices in the future.",
   "minGameVersion": 146,
   "java": true,
   "repo": "Xeron590/Cetadustry"
