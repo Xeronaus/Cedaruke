@@ -1,19 +1,7 @@
 ## Cetadustry
 Welcome to Cetadustry, a Mindustry Java mod about conquering the 33 planets of Cetadustry.
 
-## Cetadune
-Welcome to the second planet of Cetadustry, Cetadune.
-
-## Quick Explanation
-Cetadune is a planet that is mostly covered with sand and has plenty of oil and slight amount of water.
-
-## Detailed Explanation
-Cetadune is the second planet in Cetadustry.
-
-Cetadune is a planet that is mostly covered with sand and some of its surface is covered with stone.
-
-## Requirements
-The [CetadustryAssets](https://github.com/Xeron590/CetadustryAssets). Without this, you won't be able to run the mod.
+## Explanation
 
 ## Download
 You can download the mod on the mod browser or [Releases](https://github.com/Xeron590/CetadustryCetadune/releases)
