@@ -14,7 +14,8 @@ There's 3 ways to download it. You can do any of the following:
 ### GitHub
 
 ### Manually 
-To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Then select any version you would like to download
+To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Then select any version you would like to download.
+After that, you can either import file or put the jar on the mods folder.
 
 ## Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
