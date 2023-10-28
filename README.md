@@ -4,7 +4,7 @@ Welcome to Cetadustry, a Mindustry Java mod about conquering the 33 planets of C
 # Explanation
 
 # Download
-There's 3 ways to do it. You can do any of the following:
+There's 3 ways to download it. You can do any of the following:
 - Download it on the mod browser (Unavailable currently)
 - Download it from GitHub
 - Download it manually
@@ -14,7 +14,7 @@ There's 3 ways to do it. You can do any of the following:
 ### GitHub
 
 ### Manually 
-To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Then 
+To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Then select any version you would like to download
 
 ## Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
