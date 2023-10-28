@@ -39,3 +39,6 @@ If you want to support the mod, then consider starring the mod and/or share the 
 ## Build
 
 Build is Currently in WIP. Don't expect much right now.
+
+# Gamewave Community
+
