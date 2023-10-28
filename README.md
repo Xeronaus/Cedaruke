@@ -1,10 +1,20 @@
-## Cetadustry
+# Cetadustry
 Welcome to Cetadustry, a Mindustry Java mod about conquering the 33 planets of Cetadustry.
 
-## Explanation
+# Explanation
 
-## Download
-You can download the mod on the mod browser or [Releases](https://github.com/Xeron590/CetadustryCetadune/releases)
+# Download
+There's 3 ways to do it. You can do any of the following:
+- Download it on the mod browser (Unavailable currently)
+- Download it from GitHub
+- Download it manually
+
+### Browser
+
+### GitHub
+
+### Manually 
+To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Then 
 
 ## Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
@@ -14,12 +24,14 @@ The Cetadustry Discord server is now available. If the link has expired, please 
 
 [![Discord](https://img.shields.io/discord/992823731409928193?logo=discord&logoColor=white&label=Discord&labelColor=7289DA)](https://discord.gg/BzjzCrxv)
 
-## Contribution
+# Contribution
 You can contribute to Cetadustry by:
 - Translating it to another language
 - Submitting bug reports
 - Submitting bug fixes
 - Becoming a tester
+
+### How to contribute
 
 ## Support
 If you want to support the mod, then consider starring the mod and/or share the mod with anyone.
