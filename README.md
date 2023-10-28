@@ -18,13 +18,8 @@ To download it from Github,
 ### Manually 
 To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Select any version you would like to download. After that, download it. You can either import file or put the jar on the mods folder.
 
-## Contact
+# Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
-
-## Discord
-The Cetadustry Discord server is now available. If the link has expired, please contact Xeron590/Xeronian Scariant.
-
-[![Discord](https://img.shields.io/discord/992823731409928193?logo=discord&logoColor=white&label=Discord&labelColor=7289DA)](https://discord.gg/BzjzCrxv)
 
 # Contribution
 You can contribute to Cetadustry by:
@@ -33,14 +28,14 @@ You can contribute to Cetadustry by:
 - Submitting bug fixes
 - Becoming a tester
 
-### How to contribute
+### How to Contribute
 
-## Support
+# Support
 If you want to support the mod, then consider starring the mod and/or share the mod with anyone.
 
-## Build
+# State, Stability and Balance
 
-Build is Currently in WIP. Don't expect much right now.
+Mod is currently in WIP, mod stability is not guaranteed and mod balance is unbalanced. Don't expect a perfect working mod yet. Please be patient.
 
 # Gamewave Community
 [Discord](https://discord.gg/CVKY9VUGY7)
