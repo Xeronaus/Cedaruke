@@ -27,8 +27,8 @@ To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry
 If your device wasn't able to run Cetadustry due efficient. Please use a smaller version of Cetadustry which is based on planets.
 
 ### Smaller Version
-[Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
-[Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
+- [Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
+- [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
 # Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
