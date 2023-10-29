@@ -30,7 +30,7 @@ If your device wasn't able to run Cetadustry due efficient. Please use a smaller
 - [Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
 - [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
-# Contact
+# 
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
 
 # Contribution
@@ -41,9 +41,13 @@ You can contribute to Cetadustry by:
 - Becoming a tester
 
 ### How to Contribute
+To contribute, 
 
 # Support
-If you want to support the mod, then consider starring the mod and/or share the mod with anyone.
+If you want to support the mod
+- Star the mod
+- Share the mod
+- Play the mod 
 
 # State, Stability and Balance
 This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
