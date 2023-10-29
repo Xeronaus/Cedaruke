@@ -1,5 +1,5 @@
 # Cetadustry
-Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Cetadustry. There is only 1 planet added currently.
+Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Cetadustry. Currently There is only 1 planet added.
 
 # Explanation
 
@@ -17,6 +17,13 @@ To download it from Github,
 
 ### Manually 
 To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Select any version you would like to download. After that, download it. You can either import file or put the jar on the mods folder.
+
+# Alternative
+If your device wasn't able to run Cetadustry due efficient. Please use a smaller version of Cetadustry which is based on planets.
+
+### Smaller Version
+[Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
+[Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
 # Contact
 If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
