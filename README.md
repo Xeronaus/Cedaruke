@@ -36,6 +36,7 @@ If you want to support the mod, then consider starring the mod and/or share the 
 # State, Stability and Balance
 This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
 
-# Gamewave Community
-Gamewave Community is a Indonesian discord server that's about gaming 
-[Discord](https://discord.gg/CVKY9VUGY7)
+# GameWave
+GameWave is an Indonesian discord server that's about gaming.
+
+You can join it's [Discord](https://discord.gg/CVKY9VUGY7) if you want.
