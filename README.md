@@ -1,5 +1,5 @@
 # Cetadustry
-Welcome to Cetadustry, a Mindustry Java mod about conquering the 33 planets of Cetadustry.
+Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Cetadustry. There is only 1 planet added currently.
 
 # Explanation
 
@@ -34,8 +34,8 @@ You can contribute to Cetadustry by:
 If you want to support the mod, then consider starring the mod and/or share the mod with anyone.
 
 # State, Stability and Balance
-
-Mod is currently in WIP, mod stability is not guaranteed and mod balance is unbalanced. Don't expect a perfect working mod yet. Please be patient.
+This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
 
 # Gamewave Community
+Gamewave Community is a Indonesian discord server that's about gaming 
 [Discord](https://discord.gg/CVKY9VUGY7)
