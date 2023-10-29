@@ -15,7 +15,14 @@ There's 3 ways to download it. You can do any of the following:
 - Download it manually
 
 ### Mod Browser
-To download it on the mod browser, open Mindustry, then go to
+To download it on the mod browser, Follow these steps:
+
+1. Open Mindustry
+2. Go to Mods tab
+3. Go to Mod Browser
+4. Scroll or search it to find it
+5. Once you have found it, click, Install
+6. Click Install
 
 ### GitHub
 To download it from Github,
