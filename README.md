@@ -18,10 +18,10 @@ There's 3 ways to download it. You can do any of the following:
 To download it on the mod browser, Follow these steps:
 
 1. Open Mindustry
-2. Go to Mods tab
-3. Go to Mod Browser
+2. Go to the Mods tab
+3. Go to the Mod Browser
 4. Scroll or search it to find it
-5. Once you have found it, click, Install
+5. Click the mod once you have found it
 6. Click Install
 
 ### GitHub
