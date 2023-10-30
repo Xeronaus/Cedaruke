@@ -9,7 +9,7 @@ Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. C
 If you would like to know about the planets, please visit their perspective repository. There's should be an explanation there.
 
 # Download
-There's 3 ways to download it. You can do any of the following:
+There's many ways to download it. You can do any of the following:
 - Download it on the mod browser (Unavailable currently)
 - Download it from GitHub
 - Download it manually
@@ -25,10 +25,20 @@ To download it on the mod browser, Follow these steps:
 6. Click Install
 
 ### GitHub
-To download it from Github,
+To download it from Github, Follow these steps:
+
+1. Copy this repository link
+2. Open Mindustry
+3. Go to the Mods tab
+4. Go to Import from Github
+5. Paste the link to it
+6. Click Import
 
 ### Manually 
-To download it manually, go to [Releases](https://github.com/Xeron590/Cetadustry/releases). Select any version you would like to download. After that, download it. You can either import file or put the jar on the mods folder.
+To download it manually, Follow these steps:
+
+1. Go to [Releases](https://github.com/Xeron590/Cetadustry/releases).
+2. Select any version you would like to download
 
 # Alternative
 If your device wasn't able to run Cetadustry due efficient. Please use a smaller version of Cetadustry which is based on planets.
