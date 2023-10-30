@@ -41,7 +41,7 @@ To download it manually, Follow these steps:
 2. Select any version you would like to download
 
 # Alternative
-If your device wasn't able to run Cetadustry due efficient. Please use a smaller version of Cetadustry which is based on planets.
+If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
 
 ### Smaller Version
 - [Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
