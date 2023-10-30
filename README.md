@@ -48,7 +48,7 @@ If you're experiencing lag or crashes when playing Cetadustry, consider using a 
 - [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
 # Message Me
-If you want to Message me AKA Xeron590/Xeronian Scariant
+If you want to Message me AKA Xeron590/Xeronian Scariant, you can do it on discord!
 
 Discord: xeronian_scariant
 
@@ -60,13 +60,13 @@ You can contribute to Cetadustry by:
 - Becoming a tester
 
 ### How to Contribute
-To contribute, 
+To contribute, please fork this repository then make changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged to the main tree.
 
-# Support
-If you want to support the mod
+# Support 
+If you want to support the mod, there's many ways to do it. You can do any of the following:
 - Star the mod
 - Share the mod
-- Play the mod 
+- Review the mod 
 
 # State, Stability and Balance
 This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
