@@ -47,8 +47,10 @@ If you're experiencing lag or crashes when playing Cetadustry, consider using a 
 - [Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
 - [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
-# 
-If you want to contact Xeron590. You can contact him on discord, Discord: xeronian_scariant
+# Message Me
+If you want to Message me AKA Xeron590/Xeronian Scariant
+
+Discord: xeronian_scariant
 
 # Contribution
 You can contribute to Cetadustry by:
