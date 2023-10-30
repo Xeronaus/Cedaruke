@@ -68,8 +68,10 @@ If you want to support the mod, there's many ways to do it. You can do any of th
 - Share the mod
 - Review the mod 
 
-# State, Stability and Balance
+# Current Situation
 This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
+
+I will be focusing 1 planet at a time, to develop it obviously.
 
 # GameWave
 GameWave is an Indonesian discord server that's about gaming.
