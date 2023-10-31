@@ -18,8 +18,8 @@ There's many ways to download it. You can do any of the following:
 To download it on the mod browser, Follow these steps:
 
 1. Open Mindustry
-2. Go to the Mods tab
-3. Go to the Mod Browser
+2. Go to Mods tab
+3. Go to Mod Browser
 4. Scroll or search it to find it
 5. Click the mod once you have found it
 6. Click Install
@@ -29,16 +29,18 @@ To download it from Github, Follow these steps:
 
 1. Copy this repository link
 2. Open Mindustry
-3. Go to the Mods tab
-4. Go to Import from Github
-5. Paste the link to it
-6. Click Import
+3. Go to Mods tab
+4. Go to Import Mods
+5. Choose Import from Github
+6. Paste the link to it
+7. Click OK
 
 ### Manually 
 To download it manually, Follow these steps:
 
 1. Go to [Releases](https://github.com/Xeron590/Cetadustry/releases).
 2. Select any version you would like to download
+3. 
 
 # Alternative
 If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
