@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "trigger.txt"
+      
 jobs:
   buildJar:
     runs-on: ubuntu-latest
