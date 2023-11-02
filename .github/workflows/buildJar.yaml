@@ -26,5 +26,5 @@ jobs:
     - name: Upload Jar
       uses: actions/upload-artifact@v2
       with:
-        name: ${{ fromJson(files('mod.json')).get('displayName') }}-${{ fromJson(files('mod.json')).get('version') }}-${{ fromJson(files('mod.json')).get('status') }}.jar
+        name: ${{ github.event.repository.name }}
         path: build/libs/${{ github.event.repository.name }}.jar
