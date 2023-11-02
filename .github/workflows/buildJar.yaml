@@ -4,7 +4,6 @@ on:
   push:
     paths:
       - "trigger.txt"
-
 jobs:
   buildJar:
     runs-on: ubuntu-latest
@@ -14,23 +13,18 @@ jobs:
     - name: Set up PATH
       run: |
         echo "${ANDROID_HOME}/build-tools/30.0.1" >> $GITHUB_PATH
-        
     - name: Set up JDK 17
       uses: actions/setup-java@v1
       with:
         java-version: 17
-        
     - name: Grant permission
       run: chmod +x ./gradlew       
-      
     - name: Clean Jar
       run: ./gradlew clean
-      
     - name: Deploy Jar
       run: ./gradlew deploy
-      
     - name: Upload Jar
       uses: actions/upload-artifact@v2
       with:
-        name: ${{ github.event.repository.name }}
+        name: ${{ fromJson(files('mod.json')).get('displayName') }}-${{ fromJson(files('mod.json')).get('version') }}-${{ fromJson(files('mod.json')).get('status') }}.jar
         path: build/libs/${{ github.event.repository.name }}.jar
