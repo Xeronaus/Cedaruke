@@ -39,7 +39,7 @@ To download it from Github, Follow these steps:
 To download it manually, Follow these steps:
 
 1. Go to either [Releases](https://github.com/Xeron590/Cetadustry/releases). or [Actions](https://github.com/Xeron590/Cetadustry/actions)
-2. Select any version you would like to download
+2. Select any release or artifact you would like to download
 3. 
 
 # Alternative
