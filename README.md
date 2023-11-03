@@ -20,14 +20,14 @@ To download it on the mod browser. Follow these steps:
 1. Open Mindustry
 2. Go to Mods tab
 3. Go to Mod Browser
-4. Scroll or search Cetadustry
+4. Scroll or search it to find it
 5. Click the mod once you have found it
 6. Click Install
 
 ### GitHub
 To download it from Github. Follow these steps:
 
-1. Copy this repository link
+1. Copy this [Repository](https://github.com/Xeron590/Cetadustry) link
 2. Open Mindustry
 3. Go to Mods tab
 4. Go to Import Mods
@@ -41,10 +41,11 @@ To download it manually. There's two source and manual method.
 For Releases as source. Follow these steps:
 
 1. Go to [Releases](https://github.com/Xeron590/Cetadustry/releases)
-2. Select any release
-3. Click Cetadustry.jar
+2. Choose any release you would like to download
+3. Click Cetadustry.jar from Assets from the choosen release
 
 For Actions as source. Follow these steps:
+
 1. Go to [Actions](https://github.com/Xeron590/Cetadustry/actions)
 2. Select any workflows
 3. Click Cetadustry from Artifacts
