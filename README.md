@@ -47,8 +47,17 @@ For Releases as source. Follow these steps:
 For Actions as source. Follow these steps:
 
 1. Go to [Actions](https://github.com/Xeron590/Cetadustry/actions)
-2. Select any workflows
-3. Click Cetadustry from Artifacts
+2. Choose any workflow you would like to open
+3. Click Cetadustry from Artifacts in the opened workflow
+4. Extract the jar from the downloaded zip
+
+For file placement as method. Follow these steps:
+
+1. f
+
+For file import as method Follow these steps:
+
+1. f
 
 # Alternative
 If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
