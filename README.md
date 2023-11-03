@@ -81,6 +81,17 @@ You can contribute to Cetadustry by:
 ### How to Contribute
 To contribute, please fork this repository then make changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged to the main tree.
 
+# Credits
+
+Developer
+- Xeron590
+
+Spriter
+- Xeron590
+
+Translator
+- Xeron590 (English, Indonesian)
+
 # Support 
 If you want to support the mod, there's many ways to do it. You can do any of the following:
 - Star the mod
@@ -91,8 +102,3 @@ If you want to support the mod, there's many ways to do it. You can do any of th
 This mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. Don't expect a perfect working mod yet. Please be patient.
 
 I will be focusing 1 planet at a time, to develop it obviously.
-
-# GameWave
-GameWave is an Indonesian discord server that's about gaming.
-
-You can join it's [Discord](https://discord.gg/CVKY9VUGY7) if you want.
