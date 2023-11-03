@@ -51,13 +51,27 @@ For Actions as source. Follow these steps:
 3. Click Cetadustry from Artifacts in the opened workflow
 4. Extract the jar from the downloaded zip
 
+For file import as method. Follow these steps:
+
+1. Locate Cetadustry.jar
+2. Open Mindustry
+3. Go to Mods tab
+4. Go to Import Mods
+5. Choose Import File
+
 For file placement as method. Follow these steps:
 
-1. f
+1. Locate Cetadustry.jar
+2. Right click the jar
+3. Choose Cut
+4. Go to the mods folder
+5. Right click anywhere in the folder
+6. Paste the jar to there
 
-For file import as method Follow these steps:
-
-1. f
+Location for the mods folder
+- Windows: C:\Users\Username\AppData\Roaming\Mindustry\mods
+- MacOS:
+- Linux:
 
 # Alternative
 If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
