@@ -4,7 +4,7 @@ Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Ceta
 Currently, there are only 2 planets.
 
 # Explanation
-Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring an interesting and unique features, mechanics and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
+Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
 
 Cetadustry
 
