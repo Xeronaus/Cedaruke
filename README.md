@@ -4,9 +4,7 @@ Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Ceta
 Currently, there are only 2 planets.
 
 # Explanation
-Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
-
-Cetadustry
+Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics, and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
 
 If you would like to know more about the planets, please visit their perspective repository. There's should be an explanation there.
 
@@ -71,9 +69,10 @@ For file placement as method. Follow these steps:
 6. Paste the jar to there
 
 Location for the mods folder
-- Windows: C:\Users\Username\AppData\Roaming\Mindustry\mods
-- MacOS:
-- Linux:
+- Windows: %appdata%/Mindustry/mods/
+- MacOS: ~/Library/Application Support/Mindustry/mods/
+- Linux: ~/.local/share/Mindustry/mods/
+- Steam: steam/steamapps/common/Mindustry/mods/
 
 # Alternative
 If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
@@ -83,7 +82,7 @@ If you're experiencing lag or crashes when playing Cetadustry, consider using a 
 - [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
 # Message Me
-If you want to Message me AKA Xeron590/Xeronaus Scariant, you can do it on discord!
+If you would like to message me, AKA Xeron590/Xeronaus Scariant, you can do so on Discord!
 
 Discord: xeronaus
 
@@ -95,7 +94,7 @@ You can contribute to Cetadustry by:
 - Becoming a tester
 
 ### How to Contribute
-To contribute, please fork this repository then make changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged to the main tree.
+To contribute, please fork this repository and make any changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged into the main tree.
 
 # Credits
 
@@ -115,4 +114,4 @@ If you want to support the mod, there's many ways to do it. You can do any of th
 - Review the mod 
 
 # Current Development
-Most content in the mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues and bugs. I will be focusing 1 planet at a time, to develop it obviously. I also will be keep updating the status and provide the information of mod parts that are currently in development and finished. In the meantime, you can just wait and do something else or maybe help me if you like and can.
+Most of the content in the mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues, and bugs. I will be focusing on one planet at a time to develop it, obviously. I will also keep updating the status and provide information on mod parts that are currently in development and finished. In the meantime, you can just wait and do something else, or maybe help me if you like and can.
