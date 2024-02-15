@@ -82,7 +82,7 @@ If you're experiencing lag or crashes when playing Cetadustry, consider using a 
 - [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
 
 # Message Me
-If you would like to message me, AKA Xeron590/Xeronaus Scariant, you can do so on Discord!
+If you would like to message me, AKA Xeron590/Xeronaus Finezero, you can do so on Discord!
 
 Discord: xeronaus
 
