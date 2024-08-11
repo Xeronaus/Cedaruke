@@ -73,13 +73,6 @@ Location for the mods folder
 - Linux: ~/.local/share/Mindustry/mods/
 - Steam: steam/steamapps/common/Mindustry/mods/
 
-# Alternative
-If you're experiencing lag or crashes when playing Cetadustry, consider using a smaller version of Cetadustry which is based on planets.
-
-### Smaller Version
-- [Georathe](https://github.com/Xeron590/CetadustryGeorathe/releases)
-- [Cetadune](https://github.com/Xeron590/CetadustryCetadune/releases)
-
 # Message Me
 If you would like to message me, AKA Xeron590/Xeronaus Finezero, you can do so on Discord!
 
