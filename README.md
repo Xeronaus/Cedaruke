@@ -98,13 +98,13 @@ To contribute, please fork this repository and make any changes you would like. 
 # Credits
 
 Developer
-- Xeron590
+- Xeronaus
 
 Spriter
-- Xeron590
+- Xeronaus
 
 Translator
-- Xeron590 (English, Indonesian)
+- Xeronaus (English, Indonesian)
 
 # Support 
 If you want to support the mod, there's many ways to do it. You can do any of the following:
