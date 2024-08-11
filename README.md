@@ -1,12 +1,11 @@
-# Cetadustry
-Welcome to Cetadustry, a Mindustry Java mod about conquering the planets of Cetadustry.
-
-Currently, there are only 2 planets.
+# Cedaruke
+Welcome to Cedaruke, a Mindustry Java mod about conquering the planets of Cedaruke. Build!
 
 # Explanation
-Cetadustry is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics, and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
+Cedaruke is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics, and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
 
-If you would like to know more about the planets, please visit their perspective repository. There's should be an explanation there.
+### Planets
+The mod added three new planets: Georathe, Crajuras, and Kyrapure
 
 # Download
 There's 3 ways to download it. You can do any of the following:
@@ -114,4 +113,4 @@ If you want to support the mod, there's many ways to do it. You can do any of th
 - Review the mod 
 
 # Current Development
-Most of the content in the mod is currently under development. It may contain unfinished features, unbalanced contents, stability issues, and bugs. I will be focusing on one planet at a time to develop it, obviously. I will also keep updating the status and provide information on mod parts that are currently in development and finished. In the meantime, you can just wait and do something else, or maybe help me if you like and can.
+Most content in the mod is in development. It may contain incomplete features, unbalanced contents, lags, and bugs. I will be focusing on one planet at a time to develop it, obviously. I will also continue to update the status and provide information on mod parts that are currently in development and finished. In the meantime, you can just wait and do something else, or maybe help me if you like and can.
