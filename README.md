@@ -110,7 +110,13 @@ Translator
 If you want to support the mod, there's many ways to do it. You can do any of the following:
 - Star the mod
 - Share the mod
-- Review the mod 
+- Review the mod
 
-# Current Development
-Most content in the mod is in development. It may contain incomplete features, unbalanced contents, lags, and bugs. I will be focusing on one planet at a time to develop it, obviously. I will also continue to update the status and provide information on mod parts that are currently in development and finished. In the meantime, you can just wait and do something else, or maybe help me if you like and can.
+# Development Status
+Most content in the mod is in development. Expect some incomplete features, unbalanced contents, possibly lags, and bugs.
+
+I will be focusing on one campaign at a time. This will make development much more easier and concise. I will not break this rule unless it's necessary (e.g. refer to previous paragraph).
+
+I will also continue to update the status and provide information on mod parts that are currently in development or finished.
+
+In the meantime, you can just wait and do something else, or maybe help me if you like. I won't rush because quality is important.
