@@ -113,10 +113,11 @@ If you want to support the mod, there's many ways to do it. You can do any of th
 - Review the mod
 
 # Development Status
-Most content in the mod is in development. Expect some incomplete features, unbalanced contents, possibly lags, and bugs.
+
+The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may rise so please keep that in mind.
 
 I will be focusing on one campaign at a time. This will make development much more easier and concise. I will not break this rule unless it's necessary (e.g. refer to previous paragraph).
 
 I will also continue to update the status and provide information on mod parts that are currently in development or finished.
 
-In the meantime, you can just wait and do something else, or maybe help me if you like. I won't rush because quality is important.
+In the meantime, you can just wait and do something else or maybe contribute if you like. I won't rush because quality is important, you wouldn't want a house without walls right?.
