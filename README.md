@@ -1,5 +1,5 @@
 # Cedaruke
-Welcome to Cedaruke, a Mindustry Java mod about conquering the planets of Cedaruke. Build!
+Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into the planets of Cedaruke.
 
 # Explanation
 Cedaruke is a Mindustry Java mod about conquering the planets of Cetadustry. Cetadustry aims to bring interesting and unique features, mechanics, and contents to Mindustry. Starting from basic planets to a magnificent super planet. It has many things to explore and discover.
