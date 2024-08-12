@@ -1,1 +1,2 @@
-include "main:"
+rootProject.name = 'Cedaruke'
+include ':main'
