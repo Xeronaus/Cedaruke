@@ -11,10 +11,9 @@ The mod added a new star system called the **Arion system**, which serves as the
 The mod introduces multiple new planets, each with their own unique campaign and features.
 
 ### New Sectors
-Each planets contains sectors, whenever it's procedurally generated or handmade.
+Each planet contains multiple new sectors, whether they're procedurally generated or handmade.
 
 ### New Contents
-The mod 
 
 ### New Tech Trees
 
