@@ -121,4 +121,4 @@ I will be focusing on one campaign at a time. This will make development much mo
 
 I will also continue to update the status and provide information on mod parts that are currently in development or finished.
 
-In the meantime, you can just wait and do something else or maybe contribute if you like. I won't rush because quality is important, you wouldn't want a house without walls right?.
+In the meantime, you can just wait and do something else or maybe contribute if you like. I won't rush because quality is important, you wouldn't want a house without walls right?
