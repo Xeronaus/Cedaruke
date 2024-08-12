@@ -1,8 +1,7 @@
 # Cedaruke
-Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into the planets of Cedaruke.
+Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into the Arion system. The mod is designed to introduce more exciting campaign experiences with unique planets and missions.
 
 # Explanation
-Cedaruke is a Mindustry Java mod about conquering the planets of Cetadustry. 
 
 ### Arion System
 The mod added a new star system called the Arion system, this serves as the main setting for the campaign.
@@ -77,15 +76,15 @@ Location for the mods folder
 - Steam: steam/steamapps/common/Mindustry/mods/
 
 # Message Me
-If you would like to message me, AKA Xeron590/Xeronaus Finezero, you can do so on Discord!
+If you would like to message me, Xeronaus Finezero, you can do so on Discord!
 
-Discord: xeronaus
+Discord: xeronaus_finezero
 
 # Contribution
-You can contribute to Cetadustry by:
+You can contribute to Cedaruke by:
 - Translating it to another language
-- Submitting bug reports
-- Submitting bug fixes
+- Submitting bug reports or fixes
+- Help the development
 - Becoming a tester
 
 ### How to Contribute
