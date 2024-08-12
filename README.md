@@ -14,14 +14,13 @@ The mod introduces multiple new planets, each with their own unique campaign and
 Each planet contains multiple new sectors, whether they're procedurally generated or handmade.
 
 ### New Contents
+The mod is packed with new contents (Needs to be rewrite)
 
 ### New Tech Trees
+The mod has new tech trees (Needs to be rewrite)
 
 # Download
-There's 3 ways to download it. You can do any of the following:
-- Download it on the mod browser (Unavailable currently)
-- Download it from GitHub
-- Download it manually 
+To download the mod, I recommend you to use either the Mod Browser or the Releases. However, if you want to play the experimental version, 
 
 ### Mod Browser
 To download it on the mod browser. Follow these steps:
@@ -99,7 +98,6 @@ You can contribute to Cedaruke by:
 To contribute, please fork this repository and make any changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged into the main tree.
 
 # Credits
-
 Developer
 - Xeronaus
 
@@ -111,16 +109,14 @@ Translator
 
 # Support 
 If you want to support the mod, there's many ways to do it. You can do any of the following:
-- Star the mod
-- Share the mod
-- Review the mod
+
+Thanks guys!
 
 # Development Status
+The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
 
-The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may rise so please keep that in mind.
-
-I will be focusing on one campaign at a time. This will make development much more easier and concise. I will not break this rule unless it's necessary (e.g. refer to previous paragraph).
+I will be focusing on one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
 
 I will also continue to update the status and provide information on mod parts that are currently in development or finished.
 
-In the meantime, you can just wait and do something else or maybe contribute if you like. I won't rush because quality is important, you wouldn't want a house without walls right?
+In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush because quality is important. You wouldn't want a house without walls, right?
