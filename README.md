@@ -14,10 +14,10 @@ The mod introduces multiple new planets, each with their own unique campaign and
 Each planet contains multiple new sectors, whether they're procedurally generated or handmade.
 
 ### New Contents
-The mod is packed with new contents (Needs to be rewrite)
+The mod is packed with new contents (It needs to be rewritten)
 
 ### New Tech Trees
-The mod has new tech trees (Needs to be rewrite)
+The mod has new tech trees (It needs to be rewritten)
 
 # Download
 To download the mod, I recommend you to use either the Mod Browser or the Releases. However, if you want to play the experimental version, 
