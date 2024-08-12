@@ -1,12 +1,12 @@
 {
-  "displayName": "Cetadustry",
-  "name": "cetadustry",
-  "subtitle": "Time for what now?",
+  "displayName": "Cedaruke",
+  "name": "cedaruke",
+  "subtitle": "Still in development",
   "version": "1.0",
-  "author": "Xeron590",
-  "main": "cetadustry.Cetadustry",
-  "description": "A Mindustry Java mod about conquering the 33 planets of Cetadustry.\n\nCurrently there is only 1 planet.\n\nThis mod aims to become large and may not be supported on low-end devices in the future.",
+  "author": "Xeronaus",
+  "main": "cedaruke.Cedaruke",
+  "description": "Welcome to Cedaruke, a Mindustry mod about expanding the industries into the Arion system!",
   "minGameVersion": 146,
   "java": true,
-  "repo": "Xeron590/Cetadustry"
+  "repo": "Xeronaus/Cedaruke"
 }
