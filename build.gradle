@@ -27,11 +27,15 @@ java{
 }
 
 ext{
+    //the build number that this mod is made for
     mindustryVersion = 'v146'
     jabelVersion = "93fde537c7"
+    //windows sometimes bad
+    isWindows = System.getProperty("os.name").toLowerCase().contains("windows")
     sdkRoot = System.getenv("ANDROID_HOME") ?: System.getenv("ANDROID_SDK_ROOT")
 }
 
+//java 8 backwards compatibility flag
 allprojects{
     tasks.withType(JavaCompile){
         options.compilerArgs.addAll(['--release', '8'])
@@ -45,6 +49,7 @@ dependencies{
     annotationProcessor "com.github.Anuken:jabel:$jabelVersion"
 }
 
+//force arc version
 configurations.all{
     resolutionStrategy.eachDependency { details ->
         if(details.requested.group == 'com.github.Anuken.Arc'){
@@ -62,9 +67,9 @@ task jarAndroid{
         if(!platformRoot) throw new GradleException("No android.jar found. Ensure that you have an Android platform installed.")
         def dependencies = (configurations.compileClasspath.asList() + configurations.runtimeClasspath.asList() + [new File(platformRoot, "android.jar")]).collect{ "--classpath $it.path" }.join(" ")
 
-        "d8 $dependencies --min-api 14 --output ${project.archivesBaseName}Android.jar ${project.archivesBaseName}Desktop.jar"
+        //dex and desugar files - this requires d8 in your PATH
+        "$d8 $dependencies --min-api 14 --output ${project.archivesBaseName}Android.jar ${project.archivesBaseName}Desktop.jar"
             .execute(null, new File("$buildDir/libs")).waitForProcessOutput(System.out, System.err)
-    }
 }
 
 jar{
