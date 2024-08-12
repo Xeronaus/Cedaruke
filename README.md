@@ -2,7 +2,7 @@
 Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features and missions.
 
 # Key Features
-Here are key features you might want to take a look.
+Here are some key features you might want to take a look at.
 
 ### New Star System
 The mod added a new star system called the **Arion system**, which serves as the main setting for the campaigns.
