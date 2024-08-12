@@ -108,9 +108,9 @@ Translator
 - Xeronaus (English, Indonesian)
 
 # Support 
-If you want to support the mod, there are many ways to do it. You can just play the mod, share it with your friends, give feedback, or star the repository!
+If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, or star the repository!
 
-Any support is appreciated. Thanks guys!
+Any form of support is greatly appreciated. Thank you!
 
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
