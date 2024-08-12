@@ -108,15 +108,15 @@ Translator
 - Xeronaus (English, Indonesian)
 
 # Support 
-If you want to support the mod, there's many ways to do it. You can do any of the following:
+If you want to support the mod, there are many ways to do it. You can just play the mod, share it with your friends, give feedback, or star the repository!
 
-Thanks guys!
+Any support is appreciated. Thanks guys!
 
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
 
 I will be focusing on one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
 
-I will also continue to update the status and provide information on mod parts that are currently in development or finished.
+I will also continue to update the mod status and provide information on mod parts that are currently in development or finished.
 
 In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush because quality is important. You wouldn't want a house without walls, right?
