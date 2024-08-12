@@ -1,10 +1,10 @@
 # Cedaruke
-Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into the Arion system. The mod is designed to introduce more exciting campaign experiences with unique planets and missions.
+Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod is designed to introduce more exciting campaign experiences with unique planets and missions.
 
 # Explanation
 
-### Arion System
-The mod added a new star system called the Arion system, this serves as the main setting for the campaign.
+### New Star System
+The mod added a new star system called the **Arion system**, which serves as the main setting for the campaigns.
 
 ### Planets
 The mod added three new planets: Georathe, Crajuras, and Kyrapure
