@@ -20,7 +20,7 @@ The mod is packed with new contents (It needs to be rewritten)
 The mod has new tech trees (It needs to be rewritten)
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions)
+To download the mod, I recommend you to use either the Mod Browser or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 Location for the mods folder:
 - Windows: %appdata%/Mindustry/mods/
@@ -34,14 +34,14 @@ If you would like to message me, Xeronaus Finezero, you can do so on Discord!
 Discord: xeronaus_finezero
 
 # Contribution
-You can contribute to Cedaruke by:
-- Translating it to another language
-- Submitting bug reports or fixes
-- Help the development
-- Becoming a tester
+Help
 
 ### How to Contribute
-To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check any changes you've made. If I like the changes, I will merge the pull request into the main branch.
+To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check for any changes you've made. If I like the changes, I will merge the pull request into the main branch.
+
+### What Is Allowed
+
+### What Isn't Allowed
 
 # Credits
 Developer
