@@ -39,7 +39,7 @@ You can contribute on development in several ways. Suggesting new contents, subm
 ### How to Contribute
 To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check for any changes you've made. If I like the changes, I will merge the pull request into the main branch.
 
-### What not to suggest
+### What not to Suggest
 Nothing yet.
 
 # Credits
