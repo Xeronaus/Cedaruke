@@ -54,7 +54,7 @@ Translator
 - Xeronaus (English, Indonesian)
 
 # Support 
-If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, or star the repository!
+If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, contribute, or star the repository!
 
 Any form of support is greatly appreciated. Thank you!
 
@@ -65,4 +65,4 @@ I will be focusing on one campaign at a time. This will make development much ea
 
 I will also continue to update the mod status and provide information on mod parts that are currently in development or finished.
 
-In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush because quality is important. You wouldn't want a house without walls, right?
+In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush because taking time to develop and polish gives better quality. Who wants a half made house anyways?
