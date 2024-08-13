@@ -2,7 +2,7 @@
 Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features and missions.
 
 # Key Features
-Here are some key features you might want to take a look at.
+Here are some key features that might pique your interest.
 
 ### New Star System
 The mod added a new star system called the **Arion system**, which serves as the star system for the mod campaigns.
@@ -61,8 +61,8 @@ Any form of support is greatly appreciated. Thank you!
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
 
-I will be focusing on one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
+I will be developing one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
 
-I will also continue to update the mod status and provide information on mod parts that are currently in development or finished.
+I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I haven't added any in-game contents. I'm working on it!
 
-In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush because taking time to develop and polish gives better quality. Who wants a half made house anyways?
+In the meantime, you can just wait and do something else, or maybe contribute if you like. I won't rush, because taking time to develop and polish results in higher quality. Who wants a half-finished house anyway?
