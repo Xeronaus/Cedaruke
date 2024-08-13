@@ -22,7 +22,7 @@ The mod has new tech trees (It needs to be rewritten)
 # Download
 To download the mod, I recommend you to use either the Mod Browser or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions)
 
-Location for the mods folder
+Location for the mods folder:
 - Windows: %appdata%/Mindustry/mods/
 - MacOS: ~/Library/Application Support/Mindustry/mods/
 - Linux: ~/.local/share/Mindustry/mods/
