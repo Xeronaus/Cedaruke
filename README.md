@@ -41,7 +41,7 @@ You can contribute to Cedaruke by:
 - Becoming a tester
 
 ### How to Contribute
-To contribute, please fork this repository and make any changes you would like. After you feel it's good, make a pull request. If your pull request is good or acceptable, it's going to be merged into the main tree.
+To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check any changes you've made. If I like the changes, I will merge the pull request into the main branch.
 
 # Credits
 Developer
