@@ -20,61 +20,7 @@ The mod is packed with new contents (It needs to be rewritten)
 The mod has new tech trees (It needs to be rewritten)
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser or the Releases. However, if you want to play the experimental version, 
-
-### Mod Browser
-To download it on the mod browser. Follow these steps:
-
-1. Open Mindustry
-2. Go to Mods tab
-3. Go to Mod Browser
-4. Scroll or search it to find it
-5. Click the mod once you have found it
-6. Click Install
-
-### GitHub
-To download it from Github. Follow these steps:
-
-1. Copy this [Repository](https://github.com/Xeron590/Cetadustry) link
-2. Open Mindustry
-3. Go to Mods tab
-4. Go to Import Mods
-5. Choose Import from Github
-6. Paste the link to it
-7. Click OK
-
-### Manually 
-To download it manually. There's two source and manual method.
-
-For Releases as source. Follow these steps:
-
-1. Go to [Releases](https://github.com/Xeron590/Cetadustry/releases)
-2. Choose any release you would like to download
-3. Click Cetadustry.jar from Assets from the choosen release
-
-For Actions as source. Follow these steps:
-
-1. Go to [Actions](https://github.com/Xeron590/Cetadustry/actions)
-2. Choose any workflow you would like to open
-3. Click Cetadustry from Artifacts in the opened workflow
-4. Extract the jar from the downloaded zip
-
-For file import as method. Follow these steps:
-
-1. Locate Cetadustry.jar
-2. Open Mindustry
-3. Go to Mods tab
-4. Go to Import Mods
-5. Choose Import File
-
-For file placement as method. Follow these steps:
-
-1. Locate Cetadustry.jar
-2. Right click the jar
-3. Choose Cut
-4. Go to the mods folder
-5. Right click anywhere in the folder
-6. Paste the jar to there
+To download the mod, I recommend you to use either the Mod Browser or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions)
 
 Location for the mods folder
 - Windows: %appdata%/Mindustry/mods/
