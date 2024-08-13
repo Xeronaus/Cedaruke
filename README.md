@@ -28,20 +28,19 @@ Location for the mods folder:
 - Linux: ~/.local/share/Mindustry/mods/
 - Steam: steam/steamapps/common/Mindustry/mods/
 
-# Message Me
-If you would like to message me, Xeronaus Finezero, you can do so on Discord!
+# Support 
+If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, contribute, or star the repository!
 
-Discord: xeronaus_finezero
+Any form of support is greatly appreciated. Thank you!
 
 # Contribution
-Help
+You can contribute on development in several ways. Suggesting new contents, submitting bug reports, providing ideas to balance contents, translating the mod into another language, 
 
 ### How to Contribute
 To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check for any changes you've made. If I like the changes, I will merge the pull request into the main branch.
 
-### What Is Allowed
-
-### What Isn't Allowed
+### What not to suggest
+Nothing yet.
 
 # Credits
 Developer
@@ -53,10 +52,10 @@ Spriter
 Translator
 - Xeronaus (English, Indonesian)
 
-# Support 
-If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, contribute, or star the repository!
+# Message Me
+If you would like to message me, Xeronaus Finezero, you can do so on Discord!
 
-Any form of support is greatly appreciated. Thank you!
+Discord: xeronaus_finezero
 
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
