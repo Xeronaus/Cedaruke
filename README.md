@@ -42,16 +42,9 @@ To contribute, please fork this repository and make any changes you would like. 
 ### What not to Suggest
 Nothing yet.
 
-# Credits
-Developer
+### Contributors
 - Xeronaus
-
-Spriter
-- Xeronaus
-
-Translator
-- Xeronaus (English, Indonesian)
-
+  
 # Message Me
 If you would like to message me, Xeronaus Finezero, you can do so on Discord!
 
