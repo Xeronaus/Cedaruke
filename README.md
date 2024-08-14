@@ -5,7 +5,7 @@ Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a 
 Here are some key features that might pique your interest.
 
 ### New Star System
-Meet the **Arion System**, a new star system added by the mod. This system serves as the central star around which all the planets will orbit.
+Meet the **Arion System**, a new star system where your industries will expand. This system serves as the central star around which all the new planets will orbit.
 
 ### New Planets
 The mod introduces multiple new planets, each with their own unique campaign and features.
@@ -17,10 +17,10 @@ Each planet contains multiple new sectors, whether they're procedurally generate
 The mod is packed with new contents (It needs to be rewritten)
 
 ### New Tech Trees
-The mod has new tech trees (It needs to be rewritten)
+hjjk
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
+To download the mod, I recommend you to use either the Mod Browser (Not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 Location for the mods folder:
 - Windows: %appdata%/Mindustry/mods/
