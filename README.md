@@ -20,7 +20,7 @@ The mod is packed with new contents (It needs to be rewritten)
 hjjk
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser (Not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
+To download the mod, I recommend you to use either the Mod Browser (not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the experimental version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 Location for the mods folder:
 - Windows: %appdata%/Mindustry/mods/
