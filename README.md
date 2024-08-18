@@ -34,13 +34,7 @@ If you would like to support the mod, there are several ways to do so. You can s
 Any form of support is greatly appreciated. Thank you!
 
 # Contribution
-You can contribute on development in several ways. Suggesting new contents, submitting bug reports, providing ideas to balance contents, translating the mod into another language, 
-
-### How to Contribute
-To contribute, please fork this repository and make any changes you would like. After you're done, make a pull request. I will review the pull request and check for any changes you've made. If I like the changes, I will merge the pull request into the main branch.
-
-### What not to Suggest
-Nothing yet.
+IMPORTANT: Contribution is currently closed.
 
 ### Contributors
 - Xeronaus
