@@ -9,7 +9,7 @@ The mod is made by Xeronaus, the only developer of the mod. Here's my discord if
 
 Discord: xeronaus_finezero
 
-# Development Status
+# Development
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
 
 I will be developing one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
