@@ -1,5 +1,3 @@
-[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
-
 # Cedaruke
 Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features, missions, and challenges.
 
@@ -7,7 +5,9 @@ Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a 
 To download the mod, I recommend you to use either the Mod Browser (not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 # Credits
-Well, I'm the only developer of this mod.
+The mod is made by Xeronaus, the only developer of this mod. Here's my discord if you want to talk with me.
+
+Discord: xeronaus_finezero
 
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
@@ -21,3 +21,7 @@ In the meantime, you can just wait and do something else, or maybe contribute if
 # License
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
+
+# Others
+
+[![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
