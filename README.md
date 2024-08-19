@@ -28,21 +28,8 @@ Location for the mods folder:
 - Linux: ~/.local/share/Mindustry/mods/
 - Steam: steam/steamapps/common/Mindustry/mods/
 
-# Support 
-If you would like to support the mod, there are several ways to do so. You can simply play the mod, share it with your friends, provide feedback, contribute, or star the repository!
-
-Any form of support is greatly appreciated. Thank you!
-
-# Contribution
-IMPORTANT: Contribution is currently closed.
-
-### Contributors
-- Xeronaus
-  
-# Message Me
-If you would like to message me, Xeronaus Finezero, you can do so on Discord!
-
-Discord: xeronaus_finezero
+# Credits
+Well, I'm the only Developer of this mod.
 
 # Development Status
 The mod is still in development. Expect some features to be incomplete, unbalanced, and buggy. Performance issues may arise, so please keep that in mind.
