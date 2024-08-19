@@ -5,7 +5,7 @@ Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a 
 To download the mod, I recommend you to use either the Mod Browser (not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 # Credits
-The mod is made by Xeronaus, the only developer of this mod. Here's my discord if you want to talk with me.
+The mod is made by Xeronaus, the only developer of the mod. Here's my discord if you want to talk with me.
 
 Discord: xeronaus_finezero
 
