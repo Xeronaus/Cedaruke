@@ -14,7 +14,7 @@ The mod is still in development. Expect some features to be incomplete, unbalanc
 
 I will be developing one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
 
-I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I'm working on the in-game contents. Please be patient.
+I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I'm working on the in-game contents.
 
 In the meantime, you can just wait and do something else. If you would like to contribute, please message me first.
 
