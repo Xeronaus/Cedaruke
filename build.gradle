@@ -7,10 +7,10 @@ version '1.0'
 sourceSets {
     main {
         java {
-            srcDirs = ['main/src']
+            srcDirs = ['src']
         }
         resources {
-            srcDirs = ['main/assets']
+            srcDirs = ['assets']
         }
     }
 }
