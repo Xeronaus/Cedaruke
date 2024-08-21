@@ -14,8 +14,16 @@ import cedaruke.content.*;
 
     @Override
 
+// Temporarily disable some load
     public void loadContent(){
+        // CedarukeBlocks.load();
+        // CedarukeLiquids.load();
         CedarukePlanets.load();
+        // CedarukeSectors.load();
+        // CedarukeStatusEffects.load();
+        // CedarukeTechTree.load();
+        // CedarukeUnits.load();
+        // CedarukeWeather.load();
     }
 
 }
