@@ -14,7 +14,7 @@ import cedaruke.content.*;
 
     @Override
 
-// Temporarily disable most content load to prevent errors
+// Temporarily disable most content load to prevent compiling errors
     public void loadContent(){
         // CedarukeBlocks.load();
         // CedarukeLiquids.load();
