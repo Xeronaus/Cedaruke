@@ -17,6 +17,7 @@ import cedaruke.content.*;
 // Temporarily disable most content load to prevent compiling errors
     public void loadContent(){
         // CedarukeBlocks.load();
+        // CedarukeItems.load();
         // CedarukeLiquids.load();
         CedarukePlanets.load();
         // CedarukeSectors.load();
