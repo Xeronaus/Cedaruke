@@ -14,7 +14,7 @@ import mindustry.type.*;
 
 // I'll add the rest of the planets later
 public class CedarukePlanets {
-    public static Planet arion, georathe;
+    public static Planet arion;
 
     public static void load() {
         arion = new Planet("arion", null, 5f, 0){{
