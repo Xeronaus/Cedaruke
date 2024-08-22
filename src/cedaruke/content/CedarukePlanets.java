@@ -9,6 +9,8 @@ import mindustry.game.*;
 import mindustry.graphics.*;
 import mindustry.graphics.g3d.*;
 import mindustry.type.*;
+// import cedaruke.content.CedarukeBlocks.*;
+// import cedaruke.planets.*;
 
 // I'll add the rest of the planets later
 public class CedarukePlanets {
