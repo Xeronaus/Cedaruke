@@ -4,7 +4,7 @@ Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a 
 # Download
 To download the mod, I recommend you to use either the Mod Browser (not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
 
-# Credits
+# Contributors
 The mod is made by Xeronaus, the only developer of the mod. Here's my discord if you want to talk with me.
 
 Discord: xeronaus_finezero
@@ -27,6 +27,7 @@ Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/b
 [![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeronaus)
 
-# Mod Plans
 See [mod plans](https://github.com/Xeronaus/Cedaruke/blob/main/MODPLANS.md) if you want to know what the mod will be adding in the future.
+
+See [mod lore](https://github.com/Xeronaus/Cedaruke/blob/main/MODLORE.md) to know the lore behind the campaigns.
 
