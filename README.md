@@ -22,7 +22,7 @@ In the meantime, you can just wait and do something else. If you would like to c
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
-This means you can you my codes for your own Mindustry mod but you'll need to set the license to be GNU GPL 3.0 too.
+This means you can you my codes ~and sprites~ for your own Mindustry mod but you'll need to set the license to be GNU GPL 3.0 too.
 
 # Others
 
