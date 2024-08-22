@@ -28,5 +28,5 @@ Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/b
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8guFwFQzJ5vzDnD2bsRs1w?color=ff5959&label=YouTube&logo=youtube&style=for-the-badge)](https://www.youtube.com/@Xeronaus)
 
 # Mod Plans
-Click [here](https://github.com/Xeronaus/Cedaruke/MODPLANS.md) to see the mod plans.
+See [mod plans](https://github.com/Xeronaus/Cedaruke/blob/main/MODPLANS.md) if you want to know what the mod will be adding in the future.
 
