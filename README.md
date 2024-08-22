@@ -22,12 +22,6 @@ In the meantime, you can just wait and do something else. If you would like to c
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
-This means you can use my codes ~and sprites~¹ for your own Mindustry mod but you'll need to use the same license I use and your mod source must be disclosed if you want to distribute your own mod.
-
-If you want to know all the things you can do with this mod and the conditions to avoid legal problems, go read the license in details.
-
-Also give me credits too, please. 
-
 # Others
 
 [![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
@@ -38,14 +32,3 @@ See [mod plans](https://github.com/Xeronaus/Cedaruke/blob/main/MODPLANS.md) if y
 See [mod lore](https://github.com/Xeronaus/Cedaruke/blob/main/MODLORE.md) to know the lore behind the campaigns.
 
 ~I am overworking. This is fine.~
-
-# Clarifications
-
-¹Although you actually can legally do that according to the license if you follow all the required conditions, I still can't guarantee your mod's safety if you use my sprites WITHOUT explicit permissions. Look [here](https://mindustrygame.github.io/wiki/modding/4-spriting/) and look out for the bold text.
-
-> Please note that using other modders' sprites without their permission is not allowed, although you may use them for inspiration or reference.
-
-Followed by:
-
->Reasoning such as "The mod is open-source, I can do whatever I want with it," or something similar will not be acknowledged or tolerated and your mod will be blacklisted from the mod browser.
-
