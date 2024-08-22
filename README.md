@@ -37,11 +37,11 @@ See [mod plans](https://github.com/Xeronaus/Cedaruke/blob/main/MODPLANS.md) if y
 
 See [mod lore](https://github.com/Xeronaus/Cedaruke/blob/main/MODLORE.md) to know the lore behind the campaigns.
 
-~Can I have a cheeseburger?~
+~I am overworking. This is fine.~
 
 # Clarifications
 
-¹Although you actually can legally do that, I can't guarantee of the mods safety the. Please go to [here](https://mindustrygame.github.io/wiki/modding/4-spriting/) and look out for the bold text.
+¹Although you actually can legally do that according to the license if you follow all the required conditions, I still can't guarantee your mod's safety if you use my sprites WITHOUT explicit permissions. Look [here](https://mindustrygame.github.io/wiki/modding/4-spriting/) and look out for the bold text.
 
 > Please note that using other modders' sprites without their permission is not allowed, although you may use them for inspiration or reference.
 
