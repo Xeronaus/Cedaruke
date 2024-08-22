@@ -23,3 +23,5 @@ public class CedarukePlanets {
             rotateTime = 20f * 60f;
             solarSystem = this;
             hasAtmosphere = true;
+
+// The code is not finished yet!
