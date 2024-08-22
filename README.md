@@ -2,7 +2,7 @@
 Welcome to Cedaruke, a Mindustry Java mod about expanding the industries into a new star system. The mod aims to introduce more new campaigns, each with their own unique features, missions, and challenges.
 
 # Download
-To download the mod, I recommend you to use either the Mod Browser (not available yet) or [Releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [Actions](https://github.com/Xeronaus/Cedaruke/actions).
+To download the mod, I recommend you to use either the Mod Browser (not available yet) or [releases](https://github.com/Xeron590/Cetadustry/releases). However, if you want to play the development version, please go to [actions](https://github.com/Xeronaus/Cedaruke/actions).
 
 # Contributors
 The mod is made by Xeronaus, the only developer (or contributor) of the mod. Here's my discord if you want to talk with me.
