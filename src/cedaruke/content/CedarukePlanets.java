@@ -13,3 +13,11 @@ import mindustry.type.*;
 // I'll add the rest of the planets later
 public class CedarukePlanets {
     public static Planet arion, georathe;
+
+    public static void load() {
+        arion = new Planet("arion", null, 5f, 0){{
+            bloom = true;
+            accessible = false;
+            rotateTime = 20f * 60f;
+            solarSystem = this;
+            hasAtmosphere = true;
