@@ -20,7 +20,7 @@ public class CedarukePlanets {
         arion = new Planet("arion", null, 5f, 0){{
             bloom = true;
             accessible = false;
-            rotateTime = 20f * 60f;
+            rotateTime = 20f * 50f;
             solarSystem = this;
             hasAtmosphere = true;
 
