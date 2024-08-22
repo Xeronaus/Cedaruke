@@ -43,3 +43,9 @@ See [mod lore](https://github.com/Xeronaus/Cedaruke/blob/main/MODLORE.md) to kno
 
 ¹Although you actually can legally do that, I can't guarantee of the mods safety the. Please go to [here](https://mindustrygame.github.io/wiki/modding/4-spriting/) and look out for the bold text.
 
+> Please note that using other modders' sprites without their permission is not allowed, although you may use them for inspiration or reference.
+
+Followed by:
+
+>Reasoning such as "The mod is open-source, I can do whatever I want with it," or something similar will not be acknowledged or tolerated and your mod will be blacklisted from the mod browser.
+
