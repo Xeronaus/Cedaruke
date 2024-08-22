@@ -24,4 +24,17 @@ public class CedarukePlanets {
             solarSystem = this;
             hasAtmosphere = true;
 
+            meshLoader = () -> new SunMesh(
+                    this, 0,
+                    0, 0, 0, 0, 0,
+                    0f,
+                    Color.valueOf("000000"),
+                    Color.valueOf("000000"),
+                    Color.valueOf("000000"),
+                    Color.valueOf("000000"),
+                    Color.valueOf("000000"),
+                    Color.valueOf("000000")
+            );
+        }};
+
 // The code is not finished yet!
