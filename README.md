@@ -22,6 +22,8 @@ In the meantime, you can just wait and do something else. If you would like to c
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
+This means you *can*
+
 # Others
 
 [![Stars](https://img.shields.io/github/stars/Xeronaus/Cedaruke?color=F7D747&label=⭐️%20Please%20Star%20Cedaruke%21&style=for-the-badge)](https://github.com/Xeronaus/Cedaruke)
