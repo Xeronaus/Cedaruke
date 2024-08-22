@@ -22,7 +22,7 @@ In the meantime, you can just wait and do something else. If you would like to c
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
-This means you *can*
+This means you
 
 # Others
 
@@ -32,4 +32,6 @@ This means you *can*
 See [mod plans](https://github.com/Xeronaus/Cedaruke/blob/main/MODPLANS.md) if you want to know what the mod will be adding in the future.
 
 See [mod lore](https://github.com/Xeronaus/Cedaruke/blob/main/MODLORE.md) to know the lore behind the campaigns.
+
+~what~
 
