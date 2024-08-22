@@ -9,3 +9,7 @@ import mindustry.game.*;
 import mindustry.graphics.*;
 import mindustry.graphics.g3d.*;
 import mindustry.type.*;
+
+// I'll add the rest of the planets later
+public class CedarukePlanets {
+    public static Planet arion, georathe;
