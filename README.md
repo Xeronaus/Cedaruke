@@ -14,17 +14,19 @@ The mod is still in development. Expect some features to be incomplete, unbalanc
 
 I will be developing one campaign at a time. This will make development much easier and more concise. I will not break this rule unless it's necessary (e.g., refer to the previous paragraph).
 
-I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I'm working on the in-game contents.
+I will also continue to update the mod status and provide information on mod parts that are currently in development or finished. Right now, I'm working on the "actual" in-game contents.
 
-In the meantime, you can just wait and do something else. If you would like to contribute, please message me first.
-
-If you have feedbacks and/or reports, create an issue.
+In the meantime, you can just wait and do something else. If you would like to contribute, please message me first. If you have feedbacks and/or reports, create an [issue](https://github.com/Xeronaus/Cedaruke/issues).
 
 # License
 
 Cedaruke is licensed under [GNU GPL v3.0](https://github.com/Xeronaus/Cedaruke/blob/main/LICENSE)
 
-This means you can you my codes ~and sprites~¹ for your own Mindustry mod but you'll need to set the license to be GNU GPL 3.0 too.
+This means you can use my codes ~and sprites~¹ for your own Mindustry mod but you'll need to use the same license I use and your mod source must be disclosed if you want to distribute your own mod.
+
+If you want to know all the things you can do with this mod and the conditions to avoid legal problems, go read the license in details.
+
+Also give me credits too, please. 
 
 # Others
 
